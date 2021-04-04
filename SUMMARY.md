@@ -3,3 +3,6 @@
 - [《这个杀手不太冷》](chapters/ch02.md)
 - [《阿甘正传》](chapters/ch03.md)
 - [《霸王别姬》](chapters/ch04.md)
+- [《美丽人生》](chapters/ch05.md)
+- [《千与千寻》](chapters/ch06.md)
+- [《辛德勒的名单》](chapters/ch07.md)
