@@ -1,0 +1,23 @@
+{
+  "name": "my-gitbook",
+  "version": "1.0.0",
+  "description": "豆瓣高分电影",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIHUICHAOlihuichao/my-gitbook.git"
+  },
+  "keywords": [],
+  "author": "lihuichao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LIHUICHAOlihuichao/my-gitbook/issues"
+  },
+  "homepage": "https://github.com/LIHUICHAOlihuichao/my-gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
